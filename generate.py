@@ -2,6 +2,7 @@ import torch
 import torch.nn.functional as F
 from model import CharRNN
 from pathlib import Path
+import pickle
 
 
 def _coerce_mappings(ckpt):
@@ -30,7 +31,13 @@ def _coerce_mappings(ckpt):
 
 
 def generate_from_checkpoint(checkpoint_path, start_seq, max_len=200, temperature=1.0, device=None):
-    ckpt = torch.load(checkpoint_path, map_location="cpu")
+    try:
+        ckpt = torch.load(checkpoint_path, map_location="cpu")
+    except pickle.UnpicklingError:
+        # PyTorch >=2.6 defaults to weights_only=True, which can reject
+        # checkpoints containing Python objects (e.g., vocab dictionaries).
+        # Re-load with weights_only=False for trusted local checkpoints.
+        ckpt = torch.load(checkpoint_path, map_location="cpu", weights_only=False)
     # allow caller to override device; otherwise prefer CUDA, else CPU
     device = device or ("cuda" if torch.cuda.is_available() else "cpu")
     vocab_size = ckpt.get("vocab_size")
