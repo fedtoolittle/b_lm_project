@@ -61,6 +61,55 @@ def _coerce_mappings(ckpt):
     return char_to_idx, idx_to_char
 
 
+def _validate_checkpoint_model_config(vocab_size, embed_size, num_heads, max_seq_len):
+    required_config = {
+        "vocab_size": vocab_size,
+        "embed_size": embed_size,
+        "num_heads": num_heads,
+        "max_seq_len": max_seq_len,
+    }
+    missing = [k for k, v in required_config.items() if v is None]
+    if missing:
+        raise KeyError(f"Checkpoint missing required model config keys: {sorted(missing)}")
+
+    config = {k: int(v) for k, v in required_config.items()}
+    if config["vocab_size"] <= 0:
+        raise ValueError(f"Invalid vocab_size={config['vocab_size']}; expected > 0")
+    if config["embed_size"] <= 0:
+        raise ValueError(f"Invalid embed_size={config['embed_size']}; expected > 0")
+    if config["num_heads"] <= 0:
+        raise ValueError(f"Invalid num_heads={config['num_heads']}; expected > 0")
+    if config["embed_size"] % config["num_heads"] != 0:
+        raise ValueError(
+            "Invalid config: embed_size must be divisible by num_heads "
+            f"(got embed_size={config['embed_size']}, num_heads={config['num_heads']})"
+        )
+    if config["max_seq_len"] <= 0:
+        raise ValueError(f"Invalid max_seq_len={config['max_seq_len']}; expected > 0")
+
+    return config
+
+
+def _validate_checkpoint_state_shapes(model, model_state):
+    expected_shapes = {
+        "token_emb.weight": tuple(model.token_emb.weight.shape),
+        "pos_emb.weight": tuple(model.pos_emb.weight.shape),
+        "fc_out.weight": tuple(model.fc_out.weight.shape),
+        "fc_out.bias": tuple(model.fc_out.bias.shape),
+    }
+
+    for key, expected_shape in expected_shapes.items():
+        if key not in model_state:
+            raise ValueError(f"Checkpoint model_state missing required tensor: {key}")
+
+        actual_shape = tuple(model_state[key].shape)
+        if actual_shape != expected_shape:
+            raise ValueError(
+                f"Checkpoint tensor shape mismatch for '{key}': "
+                f"expected {expected_shape}, got {actual_shape}"
+            )
+
+
 def generate_from_checkpoint(checkpoint_path, start_seq, max_len=200, temperature=1.0, device=None):
     """Generate text using a checkpoint-bound context window.
 
@@ -69,7 +118,7 @@ def generate_from_checkpoint(checkpoint_path, start_seq, max_len=200, temperatur
     ckpt = _load_checkpoint(checkpoint_path)
     # allow caller to override device; otherwise prefer CUDA, else CPU
     device = device or ("cuda" if torch.cuda.is_available() else "cpu")
-    vocab_size = int(ckpt["vocab_size"])
+    vocab_size = ckpt["vocab_size"]
     embed_size = ckpt.get("embed_size", 128)
     hidden_size = ckpt.get("hidden_size", 256)
     num_layers = ckpt.get("num_layers", 2)
@@ -100,14 +149,22 @@ def generate_from_checkpoint(checkpoint_path, start_seq, max_len=200, temperatur
     if max_seq_len is None:
         max_seq_len = ckpt.get("sequence_length", 512)
 
-    model = TransformerModel(
+    model_config = _validate_checkpoint_model_config(
         vocab_size=vocab_size,
         embed_size=embed_size,
         num_heads=num_heads,
+        max_seq_len=max_seq_len,
+    )
+
+    model = TransformerModel(
+        vocab_size=model_config["vocab_size"],
+        embed_size=model_config["embed_size"],
+        num_heads=model_config["num_heads"],
         num_layers=num_layers,
-        max_len=max_seq_len,
+        max_len=model_config["max_seq_len"],
     ).to(device)
 
+    _validate_checkpoint_state_shapes(model, ckpt["model_state"])
     model.load_state_dict(ckpt["model_state"])
     model.eval()
 
@@ -117,14 +174,14 @@ def generate_from_checkpoint(checkpoint_path, start_seq, max_len=200, temperatur
     seq = [char_to_idx.get(ch, 0) for ch in start_seq]
     if len(seq) == 0:
         seq = [0]
-    if len(seq) > max_seq_len:
+    if len(seq) > model_config["max_seq_len"]:
         warnings.warn(
             "Start prompt exceeds checkpoint context window; truncating to the most recent "
-            f"{max_seq_len} tokens (received {len(seq)}).",
+            f"{model_config['max_seq_len']} tokens (received {len(seq)}).",
             stacklevel=2,
         )
-        seq = seq[-max_seq_len:]
-        start_seq = start_seq[-max_seq_len:]
+        seq = seq[-model_config["max_seq_len"]:]
+        start_seq = start_seq[-model_config["max_seq_len"]:]
 
     input_tensor = torch.tensor([seq], dtype=torch.long, device=device)
     #hidden = model.init_hidden(1, device=device)
@@ -134,7 +191,7 @@ def generate_from_checkpoint(checkpoint_path, start_seq, max_len=200, temperatur
 
     with torch.no_grad():
         for _ in range(max_len):
-            context = input_tensor[:, -max_seq_len:]
+            context = input_tensor[:, -model_config["max_seq_len"]:]
             logits = model(context)
             logits = logits[:, -1, :] / temperature
             probs = F.softmax(logits, dim=-1)
