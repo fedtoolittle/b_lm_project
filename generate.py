@@ -5,7 +5,8 @@ from pathlib import Path
 import torch
 import torch.nn.functional as F
 
-from model import CharRNN
+#from model import CharRNN
+from transformer import TransformerModel
 
 
 REQUIRED_CKPT_KEYS = {"model_state", "vocab_size"}
@@ -70,7 +71,37 @@ def generate_from_checkpoint(checkpoint_path, start_seq, max_len=200, temperatur
 
     char_to_idx, idx_to_char = _coerce_mappings(ckpt)
 
-    model = CharRNN(vocab_size, embed_size, hidden_size, num_layers).to(device)
+    #model = CharRNN(vocab_size, embed_size, hidden_size, num_layers).to(device)
+    num_heads = ckpt.get("num_heads", 4)
+    # Determine the positional embedding length to use for model construction.
+    # Prefer an explicit "max_len" saved in the checkpoint; otherwise
+    # infer from the saved `pos_emb.weight` shape in the stored state_dict;
+    # fall back to the saved sequence_length or 512.
+    max_seq_len = ckpt.get("max_len")
+    if max_seq_len is None:
+        model_state = ckpt.get("model_state", {})
+        pos_key = None
+        for k in model_state.keys():
+            if k.endswith("pos_emb.weight"):
+                pos_key = k
+                break
+        if pos_key is not None:
+            try:
+                max_seq_len = int(model_state[pos_key].shape[0])
+            except Exception:
+                max_seq_len = None
+
+    if max_seq_len is None:
+        max_seq_len = ckpt.get("sequence_length", 512)
+
+    model = TransformerModel(
+        vocab_size=vocab_size,
+        embed_size=embed_size,
+        num_heads=num_heads,
+        num_layers=num_layers,
+        max_len=max_seq_len,
+    ).to(device)
+
     model.load_state_dict(ckpt["model_state"])
     model.eval()
 
@@ -81,17 +112,22 @@ def generate_from_checkpoint(checkpoint_path, start_seq, max_len=200, temperatur
     if len(seq) == 0:
         seq = [0]
     input_tensor = torch.tensor([seq], dtype=torch.long, device=device)
-    hidden = model.init_hidden(1, device=device)
+    #hidden = model.init_hidden(1, device=device)
 
     out_chars = list(start_seq)
-    cur_input = input_tensor[:, -1:].clone()
+    #cur_input = input_tensor[:, -1:].clone()
 
     with torch.no_grad():
         for _ in range(max_len):
-            logits, hidden = model(cur_input, hidden)
+            logits = model(input_tensor)
             logits = logits[:, -1, :] / temperature
             probs = F.softmax(logits, dim=-1)
             next_idx = torch.multinomial(probs, num_samples=1).item()
+
+            input_tensor = torch.cat(
+                [input_tensor, torch.tensor([[next_idx]], device=device)], 
+                dim=1
+            )
             out_chars.append(idx_to_char.get(int(next_idx), "?"))
             cur_input = torch.tensor([[next_idx]], device=device)
 
