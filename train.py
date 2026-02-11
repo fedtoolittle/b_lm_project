@@ -115,7 +115,9 @@ def main():
             opt.zero_grad()
             logits, _ = model(xb)
             loss = crit(logits.view(-1, vocab_size), yb.view(-1))
+            print("Initial loss:", loss.item())
             loss.backward()
+            torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
             opt.step()
             batch_items = xb.size(0)
             train_loss_sum += loss.item() * batch_items
