@@ -4,7 +4,8 @@ from pathlib import Path
 import torch
 import torch.nn as nn
 
-from model import CharRNN
+#from model import CharRNN
+from transformer import TransformerModel
 
 
 def build_dataset(text: str, sequence_length: int):
@@ -48,20 +49,27 @@ def pick_device():
 def main():
     parser = argparse.ArgumentParser(description="Train char-level RNN")
     parser.add_argument("--data", default="data.txt")
-    parser.add_argument("--sequence-length", type=int, default=100)
+    parser.add_argument("--sequence-length", type=int, default=512)
     parser.add_argument("--batch-size", type=int, default=64)
-    parser.add_argument("--embed-size", type=int, default=128)
+    parser.add_argument("--embed-size", type=int, default=256)
     parser.add_argument("--hidden-size", type=int, default=256)
-    parser.add_argument("--num-layers", type=int, default=2)
+    parser.add_argument("--num-layers", type=int, default=6)
+    parser.add_argument("--num-heads", type=int, default=8)
+    parser.add_argument("--max-len", type=int, default=512)
     parser.add_argument("--dropout", type=float, default=0.0)
     parser.add_argument("--lr", type=float, default=1e-3)
-    parser.add_argument("--epochs", type=int, default=10)
+    parser.add_argument("--epochs", type=int, default=5)
     parser.add_argument("--val-split", type=float, default=0.1)
     parser.add_argument("--ckpt", default="checkpoint.pth")
     args = parser.parse_args()
 
     if not (0.0 <= args.val_split < 1.0):
         raise ValueError("--val-split must be in [0.0, 1.0).")
+    if args.sequence_length > args.max_len:
+        raise ValueError(
+            "Invalid configuration: --sequence-length must be less than or equal to --max-len "
+            f"(got sequence_length={args.sequence_length}, max_len={args.max_len})."
+        )
 
     text = Path(args.data).read_text(encoding="utf-8")
     if not isinstance(text, str):
@@ -100,7 +108,14 @@ def main():
 
     device = pick_device()
 
-    model = CharRNN(vocab_size, args.embed_size, args.hidden_size, args.num_layers, args.dropout).to(device)
+    model = TransformerModel(
+        vocab_size,
+        embed_size=args.embed_size,
+        num_heads=args.num_heads,
+        num_layers=args.num_layers,
+        max_len=args.max_len,
+    ).to(device)
+
     opt = torch.optim.Adam(model.parameters(), lr=args.lr)
     crit = nn.CrossEntropyLoss()
 
@@ -113,7 +128,7 @@ def main():
         for xb, yb in train_loader:
             xb, yb = xb.to(device), yb.to(device)
             opt.zero_grad()
-            logits, _ = model(xb)
+            logits= model(xb)
             loss = crit(logits.view(-1, vocab_size), yb.view(-1))
             print("Initial loss:", loss.item())
             loss.backward()
@@ -132,7 +147,7 @@ def main():
             with torch.no_grad():
                 for xb, yb in val_loader:
                     xb, yb = xb.to(device), yb.to(device)
-                    logits, _ = model(xb)
+                    logits= model(xb)
                     loss = crit(logits.view(-1, vocab_size), yb.view(-1))
                     batch_items = xb.size(0)
                     val_loss_sum += loss.item() * batch_items
@@ -165,7 +180,9 @@ def main():
                     "char_to_idx": char_to_idx,
                     "idx_to_char": idx_to_char,
                     "sequence_length": args.sequence_length,
+                    "max_len": args.max_len,
                     "best_val_loss": None if val_loader is None else float(best_val),
+                    "num_heads": args.num_heads,
                 },
                 args.ckpt,
             )
