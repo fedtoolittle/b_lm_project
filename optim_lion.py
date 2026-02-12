@@ -2,9 +2,25 @@ import torch
 
 
 class ManualLion:
-    """
-    DirectML-safe Lion optimizer.
-    """
+
+    def state_dict(self):
+        return {
+        "exp_avg": self.exp_avg,
+        "step": self.step_count,
+        "lr": self.lr,
+        "beta1": self.beta1,
+        "beta2": self.beta2,
+        "weight_decay": self.weight_decay,
+    }
+
+    def load_state_dict(self, state):
+        self.exp_avg = state["exp_avg"]
+        self.step_count = state["step"]
+        self.lr = state["lr"]
+        self.beta1 = state["beta1"]
+        self.beta2 = state["beta2"]
+        self.weight_decay = state["weight_decay"]
+
 
     def __init__(self, params, lr=1e-4, betas=(0.9, 0.99), weight_decay=0.0):
         self.params = list(params)

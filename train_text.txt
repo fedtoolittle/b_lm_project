@@ -1,0 +1,6000 @@
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+
+User: According to the passage, who was achilles’ mother?
+Assistant: Thetis
+
+User: In the opening episode, to whom did thetis pray?
+Assistant: Jove
+
+User: What does the text state about what did thetis ask jove to do?
+Assistant: help the Trojans
+
+User: From the narrative, who led the ship to chryse?
+Assistant: Ulysses
+
+User: In this account, what offering was sent to apollo?
+Assistant: a hecatomb
+
+User: According to the passage, who returned chryseis to her father?
+Assistant: Ulysses
+
+User: In the opening episode, how did apollo respond to the sacrifice?
+Assistant: he stopped the plague
+
+User: What does the text state about how many days later did jove return to olympus?
+Assistant: twelve days
+
+User: From the narrative, who argued with jove about thetis?
+Assistant: Juno
+
+User: In this account, who calmed the gods during the quarrel?
+Assistant: Vulcan
+
+User: According to the passage, who quarrelled at the start of the poem?
+Assistant: Agamemnon and Achilles
+
+User: In the opening episode, what emotion of achilles drives the story?
+Assistant: anger
+
+User: What does the text state about who sent the plague upon the achaeans?
+Assistant: Apollo
+
+User: From the narrative, why did apollo send a pestilence?
+Assistant: Agamemnon dishonoured his priest
+
+User: In this account, who was apollo’s priest?
+Assistant: Chryses
+
+User: According to the passage, what did chryses ask for?
+Assistant: the return of his daughter
+
+User: In the opening episode, what did chryses bring as payment?
+Assistant: a great ransom
+
+User: What does the text state about who refused the ransom?
+Assistant: Agamemnon
+
+User: From the narrative, what was the daughter’s name?
+Assistant: Chryseis
+
+User: In this account, how long did the plague last initially?
+Assistant: nine days
+
+User: According to the passage, who called the assembly?
+Assistant: Achilles
+
+User: In the opening episode, who was the seer that spoke?
+Assistant: Calchas
+
+User: What does the text state about who promised to protect calchas?
+Assistant: Achilles
+
+User: From the narrative, why was apollo angry?
+Assistant: his priest was dishonoured
+
+User: In this account, what must be done to stop the plague?
+Assistant: return the girl
+
+User: According to the passage, whose prize was taken by agamemnon?
+Assistant: Achilles
+
+User: In the opening episode, what was achilles’ prize called?
+Assistant: Briseis
+
+User: What does the text state about who stopped achilles from killing agamemnon?
+Assistant: Minerva
+
+User: From the narrative, who sent minerva?
+Assistant: Juno
+
+User: In this account, where did achilles withdraw to?
+Assistant: his ships
+

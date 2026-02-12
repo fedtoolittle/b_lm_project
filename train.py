@@ -5,6 +5,7 @@ from pathlib import Path
 import torch
 import torch.nn as nn
 #import torch.nn.functional as F
+from tokenizers import Tokenizer # For tokenizer loading
 
 #from model import CharRNN # Deprecated CharRNN, replaced by TransformerModel
 #from optim_adam import ManualAdam # Deprecated Adam optimizer, replaced by ManualLion
@@ -12,29 +13,50 @@ from optim_lion import ManualLion
 from transformer import TransformerModel
 
 
-def build_dataset(text: str, sequence_length: int):
-    chars = sorted(list(set(text)))
-    vocab_size = len(chars)
-    char_to_idx = {ch: i for i, ch in enumerate(chars)}
-    idx_to_char = {i: ch for i, ch in enumerate(chars)}
+#CharRnn is deprecated, replaced by Tokenizer-based dataset building and TransformerModel
 
-    encoded_text = [char_to_idx[ch] for ch in text]
+# def build_dataset(text: str, sequence_length: int):
+#     chars = sorted(list(set(text)))
+#     vocab_size = len(chars)
+#     char_to_idx = {ch: i for i, ch in enumerate(chars)}
+#     idx_to_char = {i: ch for i, ch in enumerate(chars)}
+
+#     encoded_text = [char_to_idx[ch] for ch in text]
+
+#     inputs = []
+#     targets = []
+#     for i in range(0, len(encoded_text) - sequence_length):
+#         inputs.append(encoded_text[i : i + sequence_length])
+#         targets.append(encoded_text[i + 1 : i + sequence_length + 1])
+
+#     if len(inputs) == 0:
+#         raise ValueError(
+#             f"Not enough data to build sequences: text length={len(encoded_text)}, "
+#             f"sequence_length={sequence_length}. Provide more text or reduce sequence length."
+#         )
+
+#     inputs = torch.tensor(inputs, dtype=torch.long)
+#     targets = torch.tensor(targets, dtype=torch.long)
+#     return inputs, targets, vocab_size, char_to_idx, idx_to_char
+
+def build_dataset(tokenizer, text, sequence_length):
+    encoded = tokenizer.encode(text)
+    ids = encoded.ids
 
     inputs = []
     targets = []
-    for i in range(0, len(encoded_text) - sequence_length):
-        inputs.append(encoded_text[i : i + sequence_length])
-        targets.append(encoded_text[i + 1 : i + sequence_length + 1])
 
-    if len(inputs) == 0:
-        raise ValueError(
-            f"Not enough data to build sequences: text length={len(encoded_text)}, "
-            f"sequence_length={sequence_length}. Provide more text or reduce sequence length."
-        )
+    for i in range(0, len(ids) - sequence_length):
+        inputs.append(ids[i:i+sequence_length])
+        targets.append(ids[i+1:i+sequence_length+1])
 
     inputs = torch.tensor(inputs, dtype=torch.long)
     targets = torch.tensor(targets, dtype=torch.long)
-    return inputs, targets, vocab_size, char_to_idx, idx_to_char
+
+    vocab_size = tokenizer.get_vocab_size()
+
+    return inputs, targets, vocab_size
+
 
 
 def pick_device():
@@ -78,11 +100,32 @@ def main():
             f"(got sequence_length={args.sequence_length}, max_len={args.max_len})."
         )
 
-    text = Path(args.data).read_text(encoding="utf-8")
-    if not isinstance(text, str):
-        raise TypeError("Loaded text is not a string.")
+    # Deprecated CharRNN dataset building
+    # text = Path(args.data).read_text(encoding="utf-8")
+    # if not isinstance(text, str):
+    #     raise TypeError("Loaded text is not a string.")
 
-    inputs, targets, vocab_size, char_to_idx, idx_to_char = build_dataset(text, args.sequence_length)
+    # inputs, targets, vocab_size, char_to_idx, idx_to_char = build_dataset(text, args.sequence_length)
+
+    text = Path(args.data).read_text(encoding="utf-8")
+
+    tokenizer = Tokenizer.from_file("tokenizer.json")
+
+    encoded = tokenizer.encode(text)
+    ids = encoded.ids
+
+    vocab_size = tokenizer.get_vocab_size()
+
+    inputs = []
+    targets = []
+
+    for i in range(0, len(ids) - args.sequence_length):
+        inputs.append(ids[i:i+args.sequence_length])
+        targets.append(ids[i+1:i+args.sequence_length+1])
+
+    inputs = torch.tensor(inputs, dtype=torch.long)
+    targets = torch.tensor(targets, dtype=torch.long)
+
 
     total_size = inputs.size(0)
     val_size = int(total_size * args.val_split)
@@ -109,9 +152,9 @@ def main():
     )
 
     # sample preview from full tensors (safe now because build_dataset validates non-empty)
-    print("Input:", "".join(idx_to_char[i.item()] for i in inputs[0]))
-    print("Target:", "".join(idx_to_char[i.item()] for i in targets[0]))
-    print(f"Dataset sizes -> train: {train_size}, val: {val_size}")
+    # print("Input:", "".join(idx_to_char[i.item()] for i in inputs[0]))
+    # print("Target:", "".join(idx_to_char[i.item()] for i in targets[0]))
+    # print(f"Dataset sizes -> train: {train_size}, val: {val_size}")
 
     device = pick_device()
 
@@ -189,14 +232,14 @@ def main():
                 {
                     "checkpoint_version": 2,
                     "model_state": model.state_dict(),
-                    "optimizer_state": opt.state_dict(),
+                    #"optimizer_state": opt.state_dict(),
                     "epoch": epoch + 1,
                     "vocab_size": vocab_size,
                     "embed_size": args.embed_size,
                     #"hidden_size": args.hidden_size,
                     "num_layers": args.num_layers,
-                    "char_to_idx": char_to_idx,
-                    "idx_to_char": idx_to_char,
+                    # "char_to_idx": char_to_idx,
+                    # "idx_to_char": idx_to_char,
                     "sequence_length": args.sequence_length,
                     "max_len": args.max_len,    
                     "best_val_loss": None if val_loader is None else float(best_val),
