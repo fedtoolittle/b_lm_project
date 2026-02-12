@@ -78,7 +78,7 @@ class FeedForward(nn.Module):
 class TransformerBlock(nn.Module):
     def __init__(self, embed_size, num_heads):
         super().__init__()
-        self.attn = MultiHeadAttention(embed_size, num_heads)
+        self.attn = MultiHeadAttention(embed_size, num_heads, batch_first=True)
         self.ff = FeedForward(embed_size)
 
         self.ln1 = nn.LayerNorm(embed_size)
@@ -93,6 +93,11 @@ class TransformerModel(nn.Module):
     def __init__(self, vocab_size, embed_size=256, num_heads=4, num_layers=2, max_len=256):
         super().__init__()
 
+        self.register_buffer(
+            "causal_mask",
+            torch.tril(torch.ones(max_len, max_len))
+        )
+
         self.token_emb = nn.Embedding(vocab_size, embed_size)
         self.pos_emb = nn.Embedding(max_len, embed_size)
 
@@ -106,10 +111,11 @@ class TransformerModel(nn.Module):
     def forward(self, x):
         B, T = x.size()
 
-        positions = torch.arange(T, device=x.device).unsqueeze(0)
+        positions = torch.arange(0, T, device=x.device)
+        positions = positions.unsqueeze(0).expand(B, T)
         x = self.token_emb(x) + self.pos_emb(positions)
 
-        mask = torch.tril(torch.ones(T, T, device=x.device))
+        mask = self.causal_mask[:T, :T]
 
         for block in self.blocks:
             x = block(x, mask)

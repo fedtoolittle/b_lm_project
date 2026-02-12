@@ -5,7 +5,7 @@ class ManualLion:
 
     def state_dict(self):
         return {
-        "exp_avg": self.exp_avg,
+        "state": self.state,
         "step": self.step_count,
         "lr": self.lr,
         "beta1": self.beta1,
@@ -14,7 +14,7 @@ class ManualLion:
     }
 
     def load_state_dict(self, state):
-        self.exp_avg = state["exp_avg"]
+        self.state = state["state"]
         self.step_count = state["step"]
         self.lr = state["lr"]
         self.beta1 = state["beta1"]
@@ -23,6 +23,7 @@ class ManualLion:
 
 
     def __init__(self, params, lr=1e-4, betas=(0.9, 0.99), weight_decay=0.0):
+        self.step_count = 0
         self.params = list(params)
         self.lr = lr
         self.beta1, self.beta2 = betas
@@ -35,13 +36,17 @@ class ManualLion:
                     "exp_avg": torch.zeros_like(p)
                 }
 
-    def zero_grad(self):
+    def zero_grad(self, set_to_none: bool = False):
         for p in self.params:
             if p.grad is not None:
-                p.grad.zero_()
+                if set_to_none:
+                    p.grad = None
+                else:
+                    p.grad.zero_()
 
     @torch.no_grad()
     def step(self):
+        self.step_count += 1
         beta1, beta2 = self.beta1, self.beta2
         lr = self.lr
         wd = self.weight_decay
