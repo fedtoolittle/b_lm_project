@@ -74,6 +74,3 @@ Long-term:
 - Deeper transformer
 - CUDA/ROCm-native acceleration
 - Evaluation metrics (perplexity + qualitative scoring)
-
-## License
-This project is an educational implementation and experimentation sandbox for understanding how modern autoregressive language models are constructed from first principles.
