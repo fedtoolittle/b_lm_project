@@ -11,6 +11,7 @@ from tokenizers import Tokenizer
 
 import model
 from transformer import TransformerModel
+from optim_lion import ManualLion
 
 
 
@@ -43,7 +44,30 @@ def estimate_loss(model, data, eval_iters, batch_size, seq_len, device):
     model.train()
     return sum(losses) / len(losses)
 
-    
+# -------------------------------------------------
+# Lazy shard loader
+# -------------------------------------------------
+def load_shards(shard_dir, pattern):
+    shard_dir = Path(shard_dir)  # ensure it's a Path object
+    shard_paths = list(shard_dir.glob(pattern))
+    if not shard_paths:
+        raise FileNotFoundError(f"No shards found matching {pattern}")
+    random.shuffle(shard_paths)
+    for path in shard_paths:
+        yield torch.load(path, weights_only=True)  # one shard at a time
+
+
+# -------------------------------------------------
+# Train/Val split generator per shard
+# -------------------------------------------------
+def shard_train_val_split(shard_gen, train_ratio=0.9):
+    """
+    Yields (train_data, val_data) for each shard.
+    """
+    for shard in shard_gen:
+        n = len(shard)
+        split_idx = int(train_ratio * n)
+        yield shard[:split_idx], shard[split_idx:]
 
 # -------------------------------------------------
 # Main
@@ -53,20 +77,25 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--data", default="wikitext103_train.txt")
     parser.add_argument("--tokenizer", default="tokenizer.json")
-
-    parser.add_argument("--batch_size", type=int, default=8)
+    parser.add_argument("--batch_size", type=int, default=32)
     parser.add_argument("--sequence_length", type=int, default=256)
-    parser.add_argument("--embed_size", type=int, default=384)
-    parser.add_argument("--num_heads", type=int, default=6)
-    parser.add_argument("--num_layers", type=int, default=6)
-    parser.add_argument("--lr", type=float, default=3e-4)
-    parser.add_argument("--max_iters", type=int, default=16000)
+    parser.add_argument("--embed_size", type=int, default=768)
+    parser.add_argument("--num_heads", type=int, default=12)
+    parser.add_argument("--num_layers", type=int, default=12)
+    parser.add_argument("--lr", type=float, default=1e-3)
+    parser.add_argument("--max_iters", type=int, default=50000)
     parser.add_argument("--eval_interval", type=int, default=500)
     parser.add_argument("--eval_iters", type=int, default=50)
-
+    parser.add_argument("--shard_dir", default=".\shards")
+    parser.add_argument("--shard_pattern", type=str, default="wiki_shard_*.pt")
     parser.add_argument("--device", default=None)
+    parser.add_argument("--train_ratio", type=float, default=0.9)
 
     args = parser.parse_args()
+
+# -------------------------------------------------
+# Device selection
+# -------------------------------------------------
 
     def pick_device(user_device=None):
         if user_device:
@@ -90,28 +119,11 @@ def main():
     
 
 # -------------------------------------------------
-# Load and tokenize dataset
+# Load tokenizer
 # -------------------------------------------------
-
-    text = Path(args.data).read_text(encoding="utf-8")
-
     tokenizer = Tokenizer.from_file(args.tokenizer)
-    encoded = tokenizer.encode(text)
-    # ids = torch.tensor(encoded.ids, dtype=torch.long) # Failing long tensor conversion
-    shards = list(Path(".").glob("wiki_shard_*.pt"))
-
     vocab_size = tokenizer.get_vocab_size()
-
-    # print("Total tokens:", len(ids))
     print("Vocab size:", vocab_size)
-
-# -------------------------------------------------
-# Train / Val split
-# -------------------------------------------------
-
-    current_shard = torch.load(random.choice(shards))
-    train_data = current_shard[:int(0.9*len(current_shard))]
-    val_data = current_shard[int(0.9*len(current_shard)):]
 
 # -------------------------------------------------
 # Model
@@ -125,7 +137,7 @@ def main():
         max_len=args.sequence_length,
     ).to(device)
 
-    from optim_lion import ManualLion
+
     optimizer = ManualLion(model.parameters(), lr=args.lr, weight_decay=1e-2)
 
     def count_parameters(model):
@@ -142,55 +154,36 @@ def main():
 # Training loop
 # -------------------------------------------------
 
-    for step in range(args.max_iters):
+    step = 0
+    while step < args.max_iters:
+        # Re-create shard generator each epoch
+        shard_gen = load_shards(args.shard_dir, args.shard_pattern)
 
-        xb, yb = get_batch(
-        train_data,
-        args.batch_size,
-        args.sequence_length,
-        device
-    )
+        for train_shard, val_shard in shard_train_val_split(shard_gen, args.train_ratio):
+            # Convert shards to tensors on CPU for batch sampling
+            train_shard = train_shard.clone().detach().long()
+            val_shard = val_shard.clone().detach().long()
+            
+            # Loop over batches within this shard
+            while step < args.max_iters:
+                xb, yb = get_batch(train_shard, args.batch_size, args.sequence_length, device)
+                logits = model(xb)
+                loss = F.cross_entropy(logits.view(-1, logits.size(-1)), yb.view(-1))
 
-        logits = model(xb)
+                optimizer.zero_grad()
+                loss.backward()
+                optimizer.step()
 
-        loss = F.cross_entropy(
-            logits.view(-1, logits.size(-1)),
-            yb.view(-1)
-        )
+                step += 1
 
-        optimizer.zero_grad()
-        loss.backward()
-        optimizer.step()
+                if step % args.eval_interval == 0:
+                    train_loss = estimate_loss(model, train_shard, args.eval_iters, args.batch_size, args.sequence_length, device)
+                    val_loss = estimate_loss(model, val_shard, args.eval_iters, args.batch_size, args.sequence_length, device)
+                    print(f"Step {step} | train_loss {train_loss:.4f} | train_ppl {math.exp(train_loss):.2f} | val_loss {val_loss:.4f} | val_ppl {math.exp(val_loss):.2f}")
 
-        # ---- Evaluation ----
-        if step % args.eval_interval == 0:
-
-            train_loss = estimate_loss(
-                model,
-                train_data,
-                args.eval_iters,
-                args.batch_size,
-                args.sequence_length,
-                device
-            )
-
-            val_loss = estimate_loss(
-                model,
-                val_data,
-                args.eval_iters,
-                args.batch_size,
-                args.sequence_length,
-                device
-            )
-
-            print(
-                f"Step {step} | "
-                f"train_loss {train_loss:.4f} | "
-                f"train_ppl {math.exp(train_loss):.2f} | "
-                f"val_loss {val_loss:.4f} | "
-                f"val_ppl {math.exp(val_loss):.2f}"
-            )
-
+                # Break out of batch loop if step exceeds max_iters
+                if step >= args.max_iters:
+                    break
             # ---- Early stopping ----
             # if val_loss < best_val_loss - min_delta:
             #     best_val_loss = val_loss
