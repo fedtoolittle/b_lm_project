@@ -1,12 +1,10 @@
 import argparse
-from email import parser
 import math
 from pathlib import Path
 import random
 
 import torch
 import torch.nn.functional as F
-from torch import device, nn
 from tokenizers import Tokenizer
 
 #import model
@@ -82,11 +80,14 @@ def main():
     parser.add_argument("--embed_size", type=int, default=512)
     parser.add_argument("--num_heads", type=int, default=8)
     parser.add_argument("--num_layers", type=int, default=8)
-    parser.add_argument("--lr", type=float, default=1e-3)
+    parser.add_argument("--lr", type=float, default=1e-4)
+    parser.add_argument("--weight_decay", type=float, default=1e-2)
+    parser.add_argument("--dropout", type=float, default=0.1)
+    parser.add_argument("--optimizer", type=str, choices=["adamw", "lion"], default="adamw")
     parser.add_argument("--max_iters", type=int, default=50000)
     parser.add_argument("--eval_interval", type=int, default=10)
     parser.add_argument("--eval_iters", type=int, default=50)
-    parser.add_argument("--shard_dir", default=".\shards")
+    parser.add_argument("--shard_dir", default="./shards")
     parser.add_argument("--shard_pattern", type=str, default="wiki_shard_*.pt")
     parser.add_argument("--device", default=None)
     parser.add_argument("--train_ratio", type=float, default=0.9)
@@ -135,11 +136,14 @@ def main():
         num_heads=args.num_heads,
         num_layers=args.num_layers,
         max_len=args.sequence_length,
+        dropout=args.dropout,
     ).to(device)
 
 
-    #optimizer = ManualLion(model.parameters(), lr=args.lr, weight_decay=1e-2)
-    optimizer = torch.optim.AdamW(model.parameters(), lr=1e-4)
+    if args.optimizer == "lion":
+        optimizer = ManualLion(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
+    else:
+        optimizer = torch.optim.AdamW(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
 
     def count_parameters(model):
         return sum(p.numel() for p in model.parameters() if p.requires_grad)
@@ -160,7 +164,8 @@ def main():
     if args.resume_checkpoint:
         checkpoint = torch.load(args.resume_checkpoint, map_location=device)
         model.load_state_dict(checkpoint["model_state_dict"])
-        optimizer.load_state_dict(checkpoint["optimizer_state_dict"])
+        if "optimizer_state_dict" in checkpoint:
+            optimizer.load_state_dict(checkpoint["optimizer_state_dict"])
         step = checkpoint["step"] + 1
         print(f"Resumed from checkpoint {args.resume_checkpoint} at step {step}")
 
@@ -191,8 +196,15 @@ def main():
                     print(f"Step {step} | train_loss {train_loss:.4f} | train_ppl {math.exp(train_loss):.2f} | val_loss {val_loss:.4f} | val_ppl {math.exp(val_loss):.2f}")
                     torch.save({
                         "model_state_dict": model.state_dict(), 
+                        "model_state": model.state_dict(),
                         "optimizer_state_dict": optimizer.state_dict(),
                         "step": step,
+                        "vocab_size": vocab_size,
+                        "embed_size": args.embed_size,
+                        "num_heads": args.num_heads,
+                        "num_layers": args.num_layers,
+                        "max_len": args.sequence_length,
+                        "dropout": args.dropout,
                         }, f"checkpoint.pth")
                     
                 # Break out of batch loop if step exceeds max_iters

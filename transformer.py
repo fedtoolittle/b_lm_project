@@ -24,6 +24,8 @@ class SelfAttention(nn.Module):
             scores = scores.masked_fill(mask == 0, float("-inf"))
 
         weights = F.softmax(scores, dim=-1)
+        dropout = nn.Dropout(0.1)
+        weights = dropout(weights)
         out = weights @ V
         return out
 
@@ -31,7 +33,7 @@ def generate_causal_mask(seq_len, device):
     return torch.tril(torch.ones(seq_len, seq_len, device=device))
 
 class MultiHeadAttention(nn.Module):
-    def __init__(self, embed_size, num_heads):
+    def __init__(self, embed_size, num_heads, dropout=0.1):
         super().__init__()
         assert embed_size % num_heads == 0
 
@@ -40,6 +42,8 @@ class MultiHeadAttention(nn.Module):
 
         self.qkv = nn.Linear(embed_size, embed_size * 3)
         self.fc = nn.Linear(embed_size, embed_size)
+        self.attn_dropout = nn.Dropout(dropout)
+        self.proj_dropout = nn.Dropout(dropout)
 
     def forward(self, x, mask=None):
         B, T, C = x.size()
@@ -56,19 +60,22 @@ class MultiHeadAttention(nn.Module):
             scores = scores.masked_fill(mask == 0, float("-inf"))
 
         weights = F.softmax(scores, dim=-1)
+        weights = self.attn_dropout(weights)
         out = weights @ V
 
         out = out.permute(0, 2, 1, 3).contiguous()
         out = out.view(B, T, C)
 
-        return self.fc(out)
+        out = self.fc(out)
+        return self.proj_dropout(out)
 
 class FeedForward(nn.Module):
-    def __init__(self, embed_size, expansion=4):
+    def __init__(self, embed_size, expansion=4, dropout=0.1):
         super().__init__()
         self.net = nn.Sequential(
             nn.Linear(embed_size, embed_size * expansion),
             nn.GELU(),
+            nn.Dropout(dropout),
             nn.Linear(embed_size * expansion, embed_size),
         )
 
@@ -76,21 +83,22 @@ class FeedForward(nn.Module):
         return self.net(x)
 
 class TransformerBlock(nn.Module):
-    def __init__(self, embed_size, num_heads):
+    def __init__(self, embed_size, num_heads, dropout=0.1):
         super().__init__()
-        self.attn = MultiHeadAttention(embed_size, num_heads)
-        self.ff = FeedForward(embed_size)
+        self.attn = MultiHeadAttention(embed_size, num_heads, dropout=dropout)
+        self.ff = FeedForward(embed_size, dropout=dropout)
+        self.resid_dropout = nn.Dropout(dropout)
 
         self.ln1 = nn.LayerNorm(embed_size)
         self.ln2 = nn.LayerNorm(embed_size)
 
     def forward(self, x, mask):
-        x = x + self.attn(self.ln1(x), mask)
-        x = x + self.ff(self.ln2(x))
+        x = x + self.resid_dropout(self.attn(self.ln1(x), mask))
+        x = x + self.resid_dropout(self.ff(self.ln2(x)))
         return x
 
 class TransformerModel(nn.Module):
-    def __init__(self, vocab_size, embed_size=256, num_heads=4, num_layers=2, max_len=256):
+    def __init__(self, vocab_size, embed_size=256, num_heads=4, num_layers=2, max_len=256, dropout=0.1):
         super().__init__()
 
         self.register_buffer(
@@ -100,9 +108,10 @@ class TransformerModel(nn.Module):
 
         self.token_emb = nn.Embedding(vocab_size, embed_size)
         self.pos_emb = nn.Embedding(max_len, embed_size)
+        self.emb_dropout = nn.Dropout(dropout)
 
         self.blocks = nn.ModuleList(
-            [TransformerBlock(embed_size, num_heads) for _ in range(num_layers)]
+            [TransformerBlock(embed_size, num_heads, dropout=dropout) for _ in range(num_layers)]
         )
 
         self.ln = nn.LayerNorm(embed_size)
@@ -114,6 +123,7 @@ class TransformerModel(nn.Module):
         positions = torch.arange(0, T, device=x.device)
         positions = positions.unsqueeze(0).expand(B, T)
         x = self.token_emb(x) + self.pos_emb(positions)
+        x = self.emb_dropout(x)
 
         mask = self.causal_mask[:T, :T]
 
