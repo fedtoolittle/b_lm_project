@@ -19,7 +19,7 @@ class CheckpointGenerator:
         device: Optional[str] = None,
         num_heads_fallback: int = 8,
     ):
-        self.ckpt = torch.load(checkpoint_path, map_location="cpu")
+        self.ckpt = torch.load(checkpoint_path, map_location="cpu", weights_only=True)
 
         model_state_key = next((k for k in REQUIRED_CKPT_STATE_KEYS if k in self.ckpt), None)
         if model_state_key is None:

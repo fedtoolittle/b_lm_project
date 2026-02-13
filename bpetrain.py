@@ -1,5 +1,6 @@
 import argparse
 import math
+import os
 from pathlib import Path
 import random
 
@@ -66,6 +67,13 @@ def shard_train_val_split(shard_gen, train_ratio=0.9):
         n = len(shard)
         split_idx = int(train_ratio * n)
         yield shard[:split_idx], shard[split_idx:]
+
+
+def atomic_torch_save(obj, path):
+    target = Path(path)
+    tmp = target.with_suffix(target.suffix + ".tmp")
+    torch.save(obj, tmp)
+    os.replace(tmp, target)
 
 # -------------------------------------------------
 # Main
@@ -162,7 +170,7 @@ def main():
     step = 0
 
     if args.resume_checkpoint:
-        checkpoint = torch.load(args.resume_checkpoint, map_location=device)
+        checkpoint = torch.load(args.resume_checkpoint, map_location=device, weights_only=True)
         model.load_state_dict(checkpoint["model_state_dict"])
         if "optimizer_state_dict" in checkpoint:
             optimizer.load_state_dict(checkpoint["optimizer_state_dict"])
@@ -194,7 +202,7 @@ def main():
                     train_loss = estimate_loss(model, train_shard, args.eval_iters, args.batch_size, args.sequence_length, device)
                     val_loss = estimate_loss(model, val_shard, args.eval_iters, args.batch_size, args.sequence_length, device)
                     print(f"Step {step} | train_loss {train_loss:.4f} | train_ppl {math.exp(train_loss):.2f} | val_loss {val_loss:.4f} | val_ppl {math.exp(val_loss):.2f}")
-                    torch.save({
+                    atomic_torch_save({
                         "model_state_dict": model.state_dict(), 
                         "model_state": model.state_dict(),
                         "optimizer_state_dict": optimizer.state_dict(),
@@ -205,7 +213,7 @@ def main():
                         "num_layers": args.num_layers,
                         "max_len": args.sequence_length,
                         "dropout": args.dropout,
-                        }, f"checkpoint.pth")
+                        }, "checkpoint.pth")
                     
                 # Break out of batch loop if step exceeds max_iters
                 if step >= args.max_iters:
@@ -229,7 +237,7 @@ def main():
     # Save checkpoint
     # -------------------------------------------------
 
-    torch.save(
+    atomic_torch_save(
         {
             "model_state": model.state_dict(),
             "vocab_size": vocab_size,
